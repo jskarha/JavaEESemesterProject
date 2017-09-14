@@ -47,4 +47,4 @@ a much easier, more intuitive process.
 
 ## Design
 
-  * [Screen Design](DesignDocuments/Screens.md)
+  * [Screen Design](design/screens.md)
