@@ -48,3 +48,7 @@ a much easier, more intuitive process.
 ## Design
 
   * [Screen Design](design/screens.md)
+  * [Application Flow](design/appFlow.md)  
+  
+## [Project Plan](design/projectPlan.md)
+## [Time Log](design/timeLog.md)
