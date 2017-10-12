@@ -9,3 +9,4 @@ CREATE TABLE decks(id int PRIMARY KEY AUTO_INCREMENT, image_id int, owner_id int
 
 CREATE TABLE cards(id int PRIMARY KEY AUTO_INCREMENT, name varchar(50));
 
+INSERT INTO cards(name) VALUES("Island"), ("Plains"), ("Mountain"), ("Swamp"), ("Forest");
